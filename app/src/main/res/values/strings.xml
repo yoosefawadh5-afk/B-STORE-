@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">B Store KSA</string>
+    <string name="store_url">https://b-storeksa.com</string>
+    <string name="action_reload">إعادة التحميل</string>
+    <string name="action_home">الرئيسية</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_open_browser">فتح في المتصفح</string>
+    <string name="network_error_title">تعذر الاتصال بالمتجر</string>
+    <string name="network_error_desc">يرجى التحقق من اتصالك بالإنترنت والمحاولة مجدداً</string>
+    <string name="btn_retry">إعادة المحاولة</string>
+    <string name="secure_connection">اتصال آمن ومحمي</string>
+</resources>

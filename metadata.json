@@ -1,0 +1,6 @@
+{
+  "name": "B Store KSA",
+  "description": "Official shopping app for B Store KSA (b-storeksa.com) - digital cards, streaming subscriptions, and beIN Sport renewal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
